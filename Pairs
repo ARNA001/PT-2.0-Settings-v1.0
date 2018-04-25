@@ -44,7 +44,7 @@ DEFAULT_A_sell_strategy = HIGHBB
 DEFAULT_A_sell_value = 30
 
 DEFAULT_B_sell_strategy = GAIN
-DEFAULT_B_sell_value = 0.5
+DEFAULT_B_sell_value = 1
 
 DEFAULT_C_sell_strategy = RSI
 DEFAULT_C_sell_value = 50
